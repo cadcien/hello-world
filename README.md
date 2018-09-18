@@ -1,2 +1,3 @@
 # hello-world
 In the beginning....
+I was here to try and learn Python. 
